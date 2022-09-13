@@ -16,7 +16,7 @@ The following **required** functionality is complete:
 
 ## Video Walkthrough
 
-Here's a <a href="https://giphy.com/gifs/osGxLksPCcXww3q55E/fullscreen"
+Here's a <a href="https://giphy.com/gifs/OtwmfaoHiWEmMhgYax/fullscreen"
 target="_blank">
 walkthrough</a> of implemented user stories:
 
