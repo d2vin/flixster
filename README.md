@@ -12,7 +12,7 @@
 
 ### App Walkthrough GIF
 
-<img src="https://giphy.com/gifs/VpTYN03Xbpfomq4OQ0/fullscreen" width=250><br>
+<img src="https://giphy.com/gifs/VpTYN03Xbpfomq4OQ0/" width=250><br>
 
 ## Video Walkthrough
 
