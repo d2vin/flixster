@@ -1,22 +1,22 @@
-# Assignment 1 - *Flixster*
+## Flixster Part 2
 
-**Flixster** is a movie catalog for iOS.
+### User Stories
 
-Submitted by: **Devin Minnihan**
+#### REQUIRED (10pts)
+- [√] (5pts) User can tap a cell to see more details about a particular movie.
+- [√] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
 
-Time spent: **1** hours spent in total
+#### BONUS
+- [coming soon] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
+- [coming soon] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
-## User Stories
+### App Walkthrough GIF
 
-The following **required** functionality is complete:
-
-* [√] User sees an app icon on the home screen and a styled launch screen.
-* [√] User can view and scroll through a list of movies now playing in theaters.
-* [√] User can view the movie posters in each row.
+<img src="https://giphy.com/gifs/VpTYN03Xbpfomq4OQ0/fullscreen" width=250><br>
 
 ## Video Walkthrough
 
-Here's a <a href="https://giphy.com/gifs/OtwmfaoHiWEmMhgYax/fullscreen"
+Here's a <a href="[https://giphy.com/gifs/OtwmfaoHiWEmMhgYax/fullscreen](https://giphy.com/gifs/VpTYN03Xbpfomq4OQ0/fullscreen)"
 target="_blank">
 walkthrough</a> of implemented user stories:
 
